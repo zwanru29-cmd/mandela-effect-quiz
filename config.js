@@ -1,7 +1,7 @@
 /* 정답 이미지는 correct, 오답 이미지는 wrong입니다. 참가자의 A/B 위치는 매 회 무작위로 바뀝니다. */
 window.APP_CONFIG = {
-  supabaseUrl: 'YOUR_SUPABASE_URL',
-  supabaseAnonKey: 'YOUR_SUPABASE_PUBLISHABLE_OR_ANON_KEY',
+  supabaseUrl: 'https://tovyfjdbyykdiaxczysi.supabase.co',
+  supabaseAnonKey: 'sb_publishable_9bHsQAE8UstxrtnoovS9Wg_dFHu8ehP',
   quizItems: [
     {id:'q1', title:'Samsung', correct:'A', imageA:'assets/01-correct.png', imageB:'assets/01-wrong.png'},
     {id:'q2', title:'Starbucks', correct:'A', imageA:'assets/02-correct.png', imageB:'assets/02-wrong.png'},
